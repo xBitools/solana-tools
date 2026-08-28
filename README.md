@@ -1,10 +1,64 @@
 # Solana Tools
 
-A collection of practical Solana tools for Web3 users, developers and wallet operators.
+**A collection of practical Solana tools for Web3 users, developers and wallet operators.**
 
-Bitools Solana tools focus on common wallet and blockchain operations including wallet generation, bulk transfers, balance checking, wallet sweeping, security, multisig and asset management.
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Solana](https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white)](https://solana.com)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-## Features
+</div>
+
+---
+
+## 📖 Overview
+
+**Bitools Solana Tools** focuses on common wallet and blockchain operations, providing a practical toolkit for everyday Solana use cases.
+
+It covers the most frequently needed operations including:
+
+- Wallet generation
+- Bulk transfers
+- Balance checking
+- Wallet sweeping
+- Security tools
+- Multisig management
+- Asset management
+
+---
+## ✨ Features
+
+- 🔑 **Wallet Generation** — Quickly generate single or multiple Solana wallets
+- 💸 **Bulk Transfers** — Send SOL or tokens to multiple addresses efficiently
+- 📊 **Balance Checker** — Check SOL and token balances in batch
+- 🧹 **Wallet Sweeper** — Consolidate assets from multiple wallets into one
+- 🛡️ **Security Tools** — Help protect wallets and private keys
+- 👥 **Multisig Support** — Manage and interact with multisig wallets
+- 🗂️ **Asset Management** — View and manage tokens & NFTs across wallets
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  <img src="./dashboard.png" width="100%" alt="Main Interface"/>
+  <br/>
+  <em>Main Dashboard</em>
+</div>
+
+<br/>
+
+| Wallet Tools | Bulk Operations |
+|--------------|-----------------|
+| ![wallet](./create-wallets.png) 
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
 
 ### Solana Wallet
 
@@ -130,10 +184,25 @@ Contributions, bug reports and suggestions are welcome.
 
 Please open an issue before making major changes.
 
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/solana-tools.git
+
+cd solana-tools
+
+# Install dependencies
+npm install
+# or
+pnpm install
+# or
+yarn
+
 ## License
 
 See the LICENSE file.
 
 ## Website
 
-https://bitools.pro/solana/
+https://bitools.pro
